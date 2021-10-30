@@ -1,1 +1,1 @@
-# QuizBit-
+# QuizBit
